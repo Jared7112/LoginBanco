@@ -1,0 +1,58 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+  <!-- Outer top arc -->
+  <path
+      android:strokeColor="@color/nova_teal"
+      android:strokeWidth="1.3"
+      android:strokeLineCap="round"
+      android:fillColor="@android:color/transparent"
+      android:pathData="M8.5,12 C8.5,8.8 11.2,6.2 14.5,6.2 C17.8,6.2 20.5,8.8 20.5,12" />
+
+  <!-- Second top arc -->
+  <path
+      android:strokeColor="@color/nova_teal"
+      android:strokeWidth="1.3"
+      android:strokeLineCap="round"
+      android:fillColor="@android:color/transparent"
+      android:pathData="M9.8,13 C9.8,10.2 11.9,8 14.5,8 C17.1,8 19.2,10.2 19.2,13" />
+
+  <!-- Third top arc -->
+  <path
+      android:strokeColor="@color/nova_teal"
+      android:strokeWidth="1.3"
+      android:strokeLineCap="round"
+      android:fillColor="@android:color/transparent"
+      android:pathData="M11.2,14 C11.2,11.8 12.7,10 14.5,10 C16.3,10 17.8,11.8 17.8,14" />
+
+  <!-- Inner core dot -->
+  <path
+      android:fillColor="@color/nova_teal"
+      android:pathData="M14.2,11.8 A0.75,0.75 0,1 1 14.2,13.3 A0.75,0.75 0,1 1 14.2,11.8 Z" />
+
+  <!-- Left vertical lines / fingerprint pattern -->
+  <path
+      android:strokeColor="@color/nova_teal"
+      android:strokeWidth="1.3"
+      android:strokeLineCap="round"
+      android:fillColor="@android:color/transparent"
+      android:pathData="M6,10 C5.8,11.5 5.9,13 6.5,14.5" />
+
+  <path
+      android:strokeColor="@color/nova_teal"
+      android:strokeWidth="1.3"
+      android:strokeLineCap="round"
+      android:fillColor="@android:color/transparent"
+      android:pathData="M7.4,11.5 C7.3,12.8 7.5,14.2 8.1,15.8" />
+
+  <path
+      android:strokeColor="@color/nova_teal"
+      android:strokeWidth="1.3"
+      android:strokeLineCap="round"
+      android:fillColor="@android:color/transparent"
+      android:pathData="M9,14.5 C8.8,15.8 9.1,17 9.8,18.2" />
+
+</vector>

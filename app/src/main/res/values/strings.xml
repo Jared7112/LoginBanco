@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LoginBanco</string>
+    <string name="bank_logo_desc">Bank Logo</string>
+    <string name="lock_icon_desc">Lock Icon</string>
+    <string name="fingerprint_sensor_desc">Fingerprint Sensor</string>
+    <string name="nova_bank_name">NovaBanco</string>
+    <string name="nova_bank_subtitle">DIGITAL BANK</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_subtitle">Usa tu huella digital para acceder de forma segura a tu cuenta</string>
+    <string name="touch_to_identify">Toca para identificarte</string>
+    <string name="scanning_fingerprint">Escaneando huella…</string>
+    <string name="fingerprint_error">ERROR: Intente de nuevo</string>
+    <string name="fingerprint_help">AYUDA: Vuelve a escanear de nuevo</string>
+    <string name="fingerprint_success">¡Escaneo de huella dactilar exitoso!\nIniciando sesión…</string>
+    <string name="fingerprint_failed">Escaneo fallido, huella dactilar no registrada</string>
+    <string name="or_continue_with">o continúa con</string>
+    <string name="login_with_pin">Ingresar con PIN</string>
+    <string name="help_footer">¿Problemas para ingresar? Ayuda</string>
+    <string name="logout_desc">Cerrar sesión</string>
+</resources>
